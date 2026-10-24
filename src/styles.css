@@ -1,0 +1,303 @@
+:root {
+  --bg: #0f1020;
+  --bg-elev: #1a1b36;
+  --bg-elev-2: #22244a;
+  --border: #33356b;
+  --text: #e8e8f5;
+  --text-dim: #a9abd4;
+  --accent: #f5b942;
+  --accent-2: #8a6cff;
+  --good: #52d6a0;
+  --bad: #ff6b8a;
+  --radius: 12px;
+  --shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  background: radial-gradient(1200px 800px at 70% -10%, #241f52 0%, var(--bg) 55%);
+  color: var(--text);
+  font-family: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.55;
+}
+
+a {
+  color: var(--accent-2);
+}
+
+.container {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 24px 20px 80px;
+}
+
+header.app-header {
+  text-align: center;
+  padding: 28px 0 12px;
+}
+
+header.app-header h1 {
+  margin: 0;
+  font-size: 2rem;
+  letter-spacing: 0.5px;
+}
+
+header.app-header .subtitle {
+  color: var(--text-dim);
+  margin-top: 6px;
+  font-size: 0.95rem;
+}
+
+.card {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  box-shadow: var(--shadow);
+  margin-bottom: 20px;
+}
+
+.card h2 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 14px;
+}
+
+label {
+  display: block;
+  font-size: 0.82rem;
+  color: var(--text-dim);
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+input,
+select,
+button {
+  font: inherit;
+  color: var(--text);
+}
+
+input,
+select {
+  width: 100%;
+  padding: 10px 12px;
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+input:focus,
+select:focus {
+  outline: 2px solid var(--accent-2);
+  outline-offset: 0;
+}
+
+button.primary {
+  background: linear-gradient(135deg, var(--accent), #ff9a3c);
+  color: #211500;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 22px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.08s ease, filter 0.15s ease;
+}
+
+button.primary:hover {
+  filter: brightness(1.05);
+}
+
+button.primary:active {
+  transform: translateY(1px);
+}
+
+button.ghost {
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.row {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.tabs {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
+}
+
+.tabs button {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 8px 16px;
+  cursor: pointer;
+  color: var(--text-dim);
+}
+
+.tabs button.active {
+  background: var(--accent-2);
+  border-color: var(--accent-2);
+  color: #fff;
+}
+
+table.planets {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+table.planets th,
+table.planets td {
+  text-align: left;
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--border);
+}
+
+table.planets th {
+  color: var(--text-dim);
+  font-weight: 600;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+.tag.exalted { background: rgba(82, 214, 160, 0.18); color: var(--good); }
+.tag.debilitated { background: rgba(255, 107, 138, 0.18); color: var(--bad); }
+.tag.own-sign { background: rgba(138, 108, 255, 0.2); color: #b9a8ff; }
+.tag.retro { background: rgba(245, 185, 66, 0.18); color: var(--accent); }
+
+.prediction {
+  border-left: 3px solid var(--accent-2);
+  padding: 10px 0 10px 16px;
+  margin-bottom: 18px;
+}
+
+.prediction .feature {
+  color: var(--text-dim);
+  font-size: 0.9rem;
+  margin: 2px 0 10px;
+}
+
+.passage {
+  background: var(--bg-elev-2);
+  border-radius: 8px;
+  padding: 12px 14px;
+  margin-bottom: 10px;
+}
+
+.passage .cite {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.78rem;
+  color: var(--accent);
+  font-style: italic;
+}
+
+.chart-svg {
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.timeline .seg {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 12px;
+  background: var(--bg-elev-2);
+  border-radius: 8px;
+  font-size: 0.9rem;
+}
+
+.timeline .seg.active {
+  outline: 2px solid var(--accent);
+}
+
+.muted {
+  color: var(--text-dim);
+}
+
+.error {
+  color: var(--bad);
+  font-weight: 600;
+}
+
+.disclaimer {
+  font-size: 0.82rem;
+  color: var(--text-dim);
+  border-top: 1px solid var(--border);
+  margin-top: 30px;
+  padding-top: 16px;
+}
+
+.kbd-hint {
+  font-size: 0.82rem;
+  color: var(--text-dim);
+  margin-top: 6px;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+@media (max-width: 760px) {
+  .grid-2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+.source-badge {
+  font-size: 0.72rem;
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 2px 10px;
+  color: var(--text-dim);
+}

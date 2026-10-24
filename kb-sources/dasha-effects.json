@@ -1,0 +1,74 @@
+[
+  {
+    "source": "Phaladeepika",
+    "topic": "dasha-lord",
+    "match": { "dashaLord": "Sun" },
+    "title": "Sun Mahadasha (6 years)",
+    "text": "The Sun's period emphasises authority, career advancement, recognition and dealings with government or father-figures. It favours leadership and self-assertion; health of the eyes, heart and bones, and relations with superiors, come to the fore. Results depend greatly on the Sun's strength and placement in the chart.",
+    "keywords": ["sun", "mahadasha", "surya", "authority", "career", "government", "father", "recognition"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "dasha-lord",
+    "match": { "dashaLord": "Moon" },
+    "title": "Moon Mahadasha (10 years)",
+    "text": "The Moon's period highlights the mind, emotions, home, mother and public life. A well-placed Moon brings comfort, popularity, travel and emotional fulfilment; a weak Moon can bring mood swings and instability. Matters of the heart and family are prominent.",
+    "keywords": ["moon", "mahadasha", "chandra", "mind", "emotion", "home", "mother", "public"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "dasha-lord",
+    "match": { "dashaLord": "Mars" },
+    "title": "Mars Mahadasha (7 years)",
+    "text": "The Mars period brings energy, drive, courage and action — favouring property, engineering, competition and bold initiatives. It can also bring conflict, haste, accidents or disputes if Mars is afflicted. Siblings and land matters often feature.",
+    "keywords": ["mars", "mahadasha", "mangala", "energy", "courage", "property", "conflict", "action"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "dasha-lord",
+    "match": { "dashaLord": "Mercury" },
+    "title": "Mercury Mahadasha (17 years)",
+    "text": "The Mercury period favours education, communication, commerce, writing and intellectual pursuits. It supports learning, business expansion, travel and skilful negotiation. A strong Mercury brings prosperity through intellect; an afflicted one, nervousness or scattered focus.",
+    "keywords": ["mercury", "mahadasha", "budha", "education", "communication", "business", "intellect", "trade"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "dasha-lord",
+    "match": { "dashaLord": "Jupiter" },
+    "title": "Jupiter Mahadasha (16 years)",
+    "text": "The Jupiter period is generally the most auspicious, bringing wisdom, growth, prosperity, children, higher learning and spiritual progress. It favours teaching, counsel, marriage and expansion of fortune. A strong Jupiter makes this a landmark period of good fortune.",
+    "keywords": ["jupiter", "mahadasha", "guru", "wisdom", "fortune", "prosperity", "children", "growth", "spirituality"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "dasha-lord",
+    "match": { "dashaLord": "Venus" },
+    "title": "Venus Mahadasha (20 years)",
+    "text": "The Venus period, the longest, emphasises love, marriage, comforts, art, wealth and pleasure. It favours relationships, creativity, luxury and material gains. A well-placed Venus makes this a time of enjoyment and refinement; an afflicted one, indulgence or relationship turbulence.",
+    "keywords": ["venus", "mahadasha", "shukra", "love", "marriage", "wealth", "art", "comfort", "pleasure"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "dasha-lord",
+    "match": { "dashaLord": "Saturn" },
+    "title": "Saturn Mahadasha (19 years)",
+    "text": "The Saturn period tests through discipline, responsibility, delay and hard work, but rewards perseverance with durable achievement. It can bring career consolidation, maturity and detachment, alongside challenges, loss or restriction that build lasting strength. Results depend heavily on Saturn's condition.",
+    "keywords": ["saturn", "mahadasha", "shani", "discipline", "hardship", "responsibility", "perseverance", "maturity"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "dasha-lord",
+    "match": { "dashaLord": "Rahu" },
+    "title": "Rahu Mahadasha (18 years)",
+    "text": "The Rahu period brings worldly ambition, sudden changes, foreign connections and unconventional paths. It can elevate the native rapidly or create confusion and obsession, depending on placement. Material gain, technology, travel abroad and bold risk-taking are common themes.",
+    "keywords": ["rahu", "mahadasha", "ambition", "foreign", "sudden", "material", "unconventional", "risk"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "dasha-lord",
+    "match": { "dashaLord": "Ketu" },
+    "title": "Ketu Mahadasha (7 years)",
+    "text": "The Ketu period turns attention inward, bringing detachment, spiritual seeking, and sometimes sudden endings or losses that clear the way for growth. It favours research, mysticism and letting go of what no longer serves, though material affairs may feel uncertain.",
+    "keywords": ["ketu", "mahadasha", "detachment", "spirituality", "moksha", "loss", "research", "endings"]
+  }
+]

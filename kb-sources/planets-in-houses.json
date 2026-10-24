@@ -1,0 +1,186 @@
+[
+  {
+    "source": "Phaladeepika",
+    "topic": "planet-in-house",
+    "match": { "planet": "Sun", "house": 1 },
+    "title": "Sun in the 1st house (Lagna)",
+    "text": "The Sun in the ascendant gives a strong constitution, a commanding presence and self-confidence. The native is ambitious, somewhat impatient, and drawn to positions of leadership. Health concerns may centre on the eyes or the head, and ego can overshadow diplomacy.",
+    "keywords": ["sun", "first house", "ascendant", "lagna", "leadership", "ego", "vitality"]
+  },
+  {
+    "source": "Saravali",
+    "topic": "planet-in-house",
+    "match": { "planet": "Sun", "house": 4 },
+    "title": "Sun in the 4th house",
+    "text": "The Sun in the fourth can unsettle domestic peace and one's relationship with the mother, and may indicate frequent change of residence. Property matters carry tension, yet the native often rises to a respected standing later in life.",
+    "keywords": ["sun", "fourth house", "home", "mother", "property", "comfort"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "planet-in-house",
+    "match": { "planet": "Sun", "house": 7 },
+    "title": "Sun in the 7th house",
+    "text": "The Sun in the seventh can strain partnership and marriage through pride or domination, and business partnerships require care. Ego friction with the spouse is a recurring theme that softens with maturity.",
+    "keywords": ["sun", "seventh house", "marriage", "partnership", "spouse", "business"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "planet-in-house",
+    "match": { "planet": "Sun", "house": 10 },
+    "title": "Sun in the 10th house",
+    "text": "The Sun in the tenth is a classic placement for career success, authority and recognition. The native gains standing through government, administration or positions of command, and the reputation tends to grow over time. This is counted among the strongest positions for the Sun.",
+    "keywords": ["sun", "tenth house", "career", "authority", "government", "reputation", "success"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "planet-in-house",
+    "match": { "planet": "Moon", "house": 1 },
+    "title": "Moon in the 1st house",
+    "text": "The Moon in the ascendant gives an emotional, receptive and imaginative nature. The native is sensitive to surroundings and moods, charming in company, and often good-looking. Emotional stability depends greatly on the Moon's waxing or waning state.",
+    "keywords": ["moon", "first house", "ascendant", "emotion", "mind", "sensitivity", "charm"]
+  },
+  {
+    "source": "Saravali",
+    "topic": "planet-in-house",
+    "match": { "planet": "Moon", "house": 4 },
+    "title": "Moon in the 4th house",
+    "text": "The Moon in the fourth, its natural house, brings emotional contentment at home, a close bond with the mother, and comforts such as property and vehicles. The mind finds peace in domestic life, and the later years are generally settled.",
+    "keywords": ["moon", "fourth house", "home", "mother", "happiness", "comfort", "property"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "planet-in-house",
+    "match": { "planet": "Moon", "house": 7 },
+    "title": "Moon in the 7th house",
+    "text": "The Moon in the seventh favours an attractive, affectionate spouse and emotional closeness in marriage. The native values companionship highly and may be drawn to public-facing or people-centred work.",
+    "keywords": ["moon", "seventh house", "marriage", "spouse", "relationship", "public"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "planet-in-house",
+    "match": { "planet": "Moon", "house": 10 },
+    "title": "Moon in the 10th house",
+    "text": "The Moon in the tenth supports a career connected to the public, nurturing fields, liquids, or changeable environments. Reputation fluctuates with circumstance, but adaptability and popularity aid professional progress.",
+    "keywords": ["moon", "tenth house", "career", "public", "reputation", "popularity"]
+  },
+  {
+    "source": "Saravali",
+    "topic": "planet-in-house",
+    "match": { "planet": "Mars", "house": 1 },
+    "title": "Mars in the 1st house",
+    "text": "Mars in the ascendant gives energy, courage, a competitive drive and physical strength. The native is bold and direct, but prone to anger, haste and accidents or scars. This is one component of the Manglik (Kuja dosha) consideration.",
+    "keywords": ["mars", "first house", "courage", "energy", "anger", "manglik", "aggression"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "planet-in-house",
+    "match": { "planet": "Mars", "house": 7 },
+    "title": "Mars in the 7th house",
+    "text": "Mars in the seventh is a principal Manglik placement and can bring friction, impatience or conflict into marriage and partnerships. Energy in the relationship is high; conscious patience and a compatible partner greatly ease the effect.",
+    "keywords": ["mars", "seventh house", "marriage", "manglik", "kuja dosha", "conflict", "partnership"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "planet-in-house",
+    "match": { "planet": "Mars", "house": 10 },
+    "title": "Mars in the 10th house",
+    "text": "Mars in the tenth is excellent for careers demanding drive, discipline and command — the military, engineering, surgery, sport or enterprise. It gives ambition and the capacity for sustained hard work, and is a form of directional strength (digbala) for Mars.",
+    "keywords": ["mars", "tenth house", "career", "engineering", "military", "ambition", "digbala"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "planet-in-house",
+    "match": { "planet": "Mercury", "house": 1 },
+    "title": "Mercury in the 1st house",
+    "text": "Mercury in the ascendant gives intelligence, wit, a youthful appearance and skill with words and numbers. The native is communicative, analytical and adaptable, with an aptitude for learning, writing and commerce.",
+    "keywords": ["mercury", "first house", "intelligence", "communication", "wit", "youthful", "analysis"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "planet-in-house",
+    "match": { "planet": "Mercury", "house": 10 },
+    "title": "Mercury in the 10th house",
+    "text": "Mercury in the tenth favours careers in communication, trade, writing, accounting, analysis and intellect-driven professions. The native prospers through skill, versatility and networking, and often holds more than one line of work.",
+    "keywords": ["mercury", "tenth house", "career", "communication", "trade", "writing", "business"]
+  },
+  {
+    "source": "Saravali",
+    "topic": "planet-in-house",
+    "match": { "planet": "Jupiter", "house": 1 },
+    "title": "Jupiter in the 1st house",
+    "text": "Jupiter in the ascendant is highly auspicious, giving wisdom, optimism, good ethics and a dignified presence. The native tends toward learning, teaching and spirituality, enjoys general good fortune, and is protected in difficulty. A form of directional strength for Jupiter.",
+    "keywords": ["jupiter", "first house", "wisdom", "fortune", "ethics", "optimism", "spirituality", "digbala"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "planet-in-house",
+    "match": { "planet": "Jupiter", "house": 5 },
+    "title": "Jupiter in the 5th house",
+    "text": "Jupiter in the fifth blesses children, education, intelligence and creative or devotional pursuits. It gives sound judgement, success in teaching or advisory roles, and a virtuous, fortunate turn of mind.",
+    "keywords": ["jupiter", "fifth house", "children", "education", "intelligence", "creativity", "wisdom"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "planet-in-house",
+    "match": { "planet": "Jupiter", "house": 9 },
+    "title": "Jupiter in the 9th house",
+    "text": "Jupiter in the ninth, the house of fortune and dharma, is among the most auspicious placements. It gives faith, higher learning, long journeys, a philosophical outlook and the support of teachers and elders. Prosperity and good fortune are strongly indicated.",
+    "keywords": ["jupiter", "ninth house", "fortune", "dharma", "luck", "higher learning", "philosophy", "guru"]
+  },
+  {
+    "source": "Saravali",
+    "topic": "planet-in-house",
+    "match": { "planet": "Venus", "house": 1 },
+    "title": "Venus in the 1st house",
+    "text": "Venus in the ascendant gives beauty, charm, a pleasing manner and a love of comfort, art and refinement. The native is attractive to others, diplomatic and sociable, with good fortune in relationships and the arts.",
+    "keywords": ["venus", "first house", "beauty", "charm", "art", "relationship", "refinement"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "planet-in-house",
+    "match": { "planet": "Venus", "house": 7 },
+    "title": "Venus in the 7th house",
+    "text": "Venus in the seventh, its natural house of relationship, favours a happy marriage, an attractive and loving partner, and harmony in partnerships. The native enjoys companionship, pleasure and often gains through marriage or joint ventures.",
+    "keywords": ["venus", "seventh house", "marriage", "love", "spouse", "harmony", "partnership"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "planet-in-house",
+    "match": { "planet": "Saturn", "house": 1 },
+    "title": "Saturn in the 1st house",
+    "text": "Saturn in the ascendant gives a serious, disciplined and reserved nature, often with early hardships that build resilience. The native matures slowly but steadily, succeeds through patience and endurance, and tends to look older than their years.",
+    "keywords": ["saturn", "first house", "discipline", "hardship", "patience", "responsibility", "endurance"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "planet-in-house",
+    "match": { "planet": "Saturn", "house": 7 },
+    "title": "Saturn in the 7th house",
+    "text": "Saturn in the seventh can delay marriage but, once settled, often gives a stable, lasting and dutiful partnership, sometimes with an older or more mature partner. It rewards commitment and patience in relationships and business alike.",
+    "keywords": ["saturn", "seventh house", "marriage", "delay", "commitment", "stability", "partnership"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "planet-in-house",
+    "match": { "planet": "Saturn", "house": 10 },
+    "title": "Saturn in the 10th house",
+    "text": "Saturn in the tenth is a strong karmic placement for career, giving steady rise through sustained effort, responsibility and discipline. Success comes gradually but endures; the native is suited to administration, labour-related fields, law or long-term institutions. A form of directional strength for Saturn.",
+    "keywords": ["saturn", "tenth house", "career", "discipline", "responsibility", "slow success", "digbala"]
+  },
+  {
+    "source": "Jataka Parijata",
+    "topic": "planet-in-house",
+    "match": { "planet": "Rahu", "house": 1 },
+    "title": "Rahu in the 1st house",
+    "text": "Rahu in the ascendant gives an unconventional, ambitious and magnetic personality, often with an unusual appearance or outlook. The native is drawn to foreign things and worldly achievement, but should guard against restlessness, confusion of identity and over-reaching.",
+    "keywords": ["rahu", "first house", "ambition", "unconventional", "foreign", "restlessness", "obsession"]
+  },
+  {
+    "source": "Jataka Parijata",
+    "topic": "planet-in-house",
+    "match": { "planet": "Ketu", "house": 1 },
+    "title": "Ketu in the 1st house",
+    "text": "Ketu in the ascendant gives a detached, introspective and spiritually inclined nature. The native may feel uncertain about identity or appearance, is drawn to the mystical, and benefits from inner work and letting go of material over-attachment.",
+    "keywords": ["ketu", "first house", "detachment", "spirituality", "introspection", "moksha"]
+  }
+]

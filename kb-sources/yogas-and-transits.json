@@ -1,0 +1,66 @@
+[
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "yoga",
+    "match": { "yoga": "Gajakesari" },
+    "title": "Gajakesari Yoga",
+    "text": "Gajakesari Yoga forms when Jupiter is in a kendra (1st, 4th, 7th or 10th) from the Moon. It bestows intelligence, respect, lasting reputation, prosperity and a virtuous character. The native gains influence and is held in high esteem, the effect strengthening with the dignity of Jupiter and the Moon.",
+    "keywords": ["gajakesari", "yoga", "jupiter", "moon", "kendra", "reputation", "prosperity", "intelligence"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "yoga",
+    "match": { "yoga": "BudhaAditya" },
+    "title": "Budha-Aditya Yoga",
+    "text": "Budha-Aditya Yoga forms when the Sun and Mercury are together in the same sign. It gives sharp intelligence, administrative ability, skill in communication and success in intellectual or governmental work. The native is clever, articulate and well-regarded for competence.",
+    "keywords": ["budha aditya", "yoga", "sun", "mercury", "intelligence", "communication", "administration"]
+  },
+  {
+    "source": "Jataka Parijata",
+    "topic": "yoga",
+    "match": { "yoga": "Chandra-Mangala" },
+    "title": "Chandra-Mangala Yoga",
+    "text": "Chandra-Mangala Yoga forms when the Moon and Mars are conjunct. It is a classic wealth-generating combination, giving business acumen, drive and the ability to earn, though it can also bring emotional intensity or a hard-edged practicality in money matters.",
+    "keywords": ["chandra mangala", "yoga", "moon", "mars", "wealth", "business", "earning", "drive"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "transit",
+    "match": { "transit": "SadeSati", "phase": "peak" },
+    "title": "Sade Sati — peak phase (Saturn over the Moon sign)",
+    "text": "During the peak of Sade Sati, Saturn transits the natal Moon sign, pressing most directly on the mind and emotions. It is a demanding period of responsibility, introspection and often hard lessons, but one that builds maturity, realism and lasting strength when met with patience and discipline.",
+    "keywords": ["sade sati", "saturn", "transit", "peak", "moon sign", "challenge", "maturity", "discipline"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "transit",
+    "match": { "transit": "SadeSati", "phase": "rising" },
+    "title": "Sade Sati — rising phase (Saturn in the 12th from the Moon)",
+    "text": "The rising phase of Sade Sati, with Saturn in the twelfth from the natal Moon, often brings increased expenses, detachment, and a winding-down of old commitments. It is a time to conserve resources, release what is finished, and prepare inwardly for the changes ahead.",
+    "keywords": ["sade sati", "saturn", "transit", "rising", "twelfth house", "expenses", "detachment", "release"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "transit",
+    "match": { "transit": "SadeSati", "phase": "setting" },
+    "title": "Sade Sati — setting phase (Saturn in the 2nd from the Moon)",
+    "text": "The setting phase of Sade Sati, with Saturn in the second from the natal Moon, concentrates on finances, family and speech. Responsibilities around money and dependents peak, but the hardest lessons ease, and disciplined effort now consolidates security for the future.",
+    "keywords": ["sade sati", "saturn", "transit", "setting", "second house", "finance", "family", "consolidation"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "transit",
+    "match": { "transit": "JupiterTransit", "favorable": true },
+    "title": "Favourable Jupiter transit",
+    "text": "Jupiter transiting a supportive house from the natal Moon (notably the 2nd, 5th, 7, 9, or 11th) generally brings growth, opportunity, good fortune and expansion in the matters of that house — wealth, children, partnership, learning or gains. It is traditionally a welcome, auspicious transit.",
+    "keywords": ["jupiter", "transit", "gochara", "growth", "fortune", "expansion", "opportunity"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "yoga",
+    "match": { "yoga": "PanchaMahapurusha" },
+    "title": "Pancha Mahapurusha Yoga",
+    "text": "A Pancha Mahapurusha Yoga forms when Mars, Mercury, Jupiter, Venus or Saturn occupies a kendra (1st, 4th, 7th, 10th) while in its own sign or exaltation (Ruchaka, Bhadra, Hamsa, Malavya and Shasha respectively). It marks an exceptional, distinguished life, giving the qualities of that planet in abundance — courage, intellect, wisdom, charm or discipline.",
+    "keywords": ["pancha mahapurusha", "ruchaka", "bhadra", "hamsa", "malavya", "shasha", "yoga", "kendra", "exaltation", "greatness"]
+  }
+]

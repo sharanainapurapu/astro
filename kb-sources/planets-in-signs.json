@@ -1,0 +1,106 @@
+[
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "planet-dignity",
+    "match": { "planet": "Sun", "dignity": "exalted" },
+    "title": "Sun exalted in Aries",
+    "text": "An exalted Sun gives powerful vitality, natural leadership, strong will and a noble, dignified character. Authority comes readily and the native commands respect. This is among the best possible placements for confidence and public standing.",
+    "keywords": ["sun", "exalted", "aries", "vitality", "leadership", "authority", "dignity"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "planet-dignity",
+    "match": { "planet": "Sun", "dignity": "debilitated" },
+    "title": "Sun debilitated in Libra",
+    "text": "A debilitated Sun can undermine confidence and self-worth, making the native dependent on others' approval or uneasy with authority. With supporting factors (a cancellation of debility, or benefic aspect) this softens, and humility can become a genuine strength.",
+    "keywords": ["sun", "debilitated", "libra", "confidence", "self-worth", "weakness"]
+  },
+  {
+    "source": "Saravali",
+    "topic": "planet-dignity",
+    "match": { "planet": "Moon", "dignity": "exalted" },
+    "title": "Moon exalted in Taurus",
+    "text": "An exalted Moon gives emotional stability, a calm and contented mind, popularity and material comfort. The native is nurturing, well-liked and emotionally secure, with a steady and generous disposition.",
+    "keywords": ["moon", "exalted", "taurus", "emotional stability", "comfort", "popularity", "contentment"]
+  },
+  {
+    "source": "Saravali",
+    "topic": "planet-dignity",
+    "match": { "planet": "Moon", "dignity": "debilitated" },
+    "title": "Moon debilitated in Scorpio",
+    "text": "A debilitated Moon can bring emotional intensity, restlessness or a tendency to brood, with strong and sometimes turbulent feelings. Channelled well, it grants depth, resilience and transformative emotional insight.",
+    "keywords": ["moon", "debilitated", "scorpio", "emotional intensity", "restlessness", "depth"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "planet-dignity",
+    "match": { "planet": "Mars", "dignity": "exalted" },
+    "title": "Mars exalted in Capricorn",
+    "text": "An exalted Mars gives disciplined courage, executive ability and the stamina to pursue long, demanding goals. Energy is well-directed rather than impulsive, making the native an effective leader, builder or strategist.",
+    "keywords": ["mars", "exalted", "capricorn", "discipline", "courage", "leadership", "stamina"]
+  },
+  {
+    "source": "Phaladeepika",
+    "topic": "planet-dignity",
+    "match": { "planet": "Mars", "dignity": "debilitated" },
+    "title": "Mars debilitated in Cancer",
+    "text": "A debilitated Mars can make energy and anger harder to direct — sometimes suppressed, sometimes reactive — and confidence may waver under pressure. Emotional security and a clear cause help the native focus this energy constructively.",
+    "keywords": ["mars", "debilitated", "cancer", "energy", "anger", "confidence"]
+  },
+  {
+    "source": "Brihat Jataka",
+    "topic": "planet-dignity",
+    "match": { "planet": "Mercury", "dignity": "exalted" },
+    "title": "Mercury exalted in Virgo",
+    "text": "An exalted Mercury (also its own sign) gives sharp intellect, precise analysis, excellent communication and strong business sense. The native excels in study, writing, commerce and any field rewarding clarity and detail.",
+    "keywords": ["mercury", "exalted", "virgo", "intellect", "analysis", "communication", "business"]
+  },
+  {
+    "source": "Brihat Jataka",
+    "topic": "planet-dignity",
+    "match": { "planet": "Jupiter", "dignity": "exalted" },
+    "title": "Jupiter exalted in Cancer",
+    "text": "An exalted Jupiter gives wisdom, generosity, strong ethics, faith and abundant good fortune. The native is respected as a guide or benefactor, enjoys protection in adversity, and prospers through knowledge, teaching and benevolence.",
+    "keywords": ["jupiter", "exalted", "cancer", "wisdom", "fortune", "generosity", "ethics", "prosperity"]
+  },
+  {
+    "source": "Brihat Jataka",
+    "topic": "planet-dignity",
+    "match": { "planet": "Jupiter", "dignity": "debilitated" },
+    "title": "Jupiter debilitated in Capricorn",
+    "text": "A debilitated Jupiter can make faith, optimism or generosity harder to access, and the native may be overly pragmatic or skeptical of guidance. Cultivating genuine principles and mentors restores Jupiter's blessings over time.",
+    "keywords": ["jupiter", "debilitated", "capricorn", "pragmatism", "skepticism", "faith"]
+  },
+  {
+    "source": "Saravali",
+    "topic": "planet-dignity",
+    "match": { "planet": "Venus", "dignity": "exalted" },
+    "title": "Venus exalted in Pisces",
+    "text": "An exalted Venus gives refined artistic taste, deep capacity for love, grace and devotion, and good fortune in relationships and comforts. The native is compassionate, creative and often blessed with beauty and material ease.",
+    "keywords": ["venus", "exalted", "pisces", "love", "art", "beauty", "devotion", "refinement"]
+  },
+  {
+    "source": "Saravali",
+    "topic": "planet-dignity",
+    "match": { "planet": "Venus", "dignity": "debilitated" },
+    "title": "Venus debilitated in Virgo",
+    "text": "A debilitated Venus can make affection more analytical or reserved, and the native may set exacting standards in love or undervalue their own charm. Self-acceptance and warmth free Venus to express its natural grace.",
+    "keywords": ["venus", "debilitated", "virgo", "love", "criticism", "reserve"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "planet-dignity",
+    "match": { "planet": "Saturn", "dignity": "exalted" },
+    "title": "Saturn exalted in Libra",
+    "text": "An exalted Saturn gives justice, integrity, organisational mastery and the ability to build lasting structures. The native is fair, disciplined and respected for responsibility, often rising to positions of authority through sustained effort.",
+    "keywords": ["saturn", "exalted", "libra", "justice", "discipline", "authority", "integrity"]
+  },
+  {
+    "source": "Brihat Parashara Hora Shastra",
+    "topic": "planet-dignity",
+    "match": { "planet": "Saturn", "dignity": "debilitated" },
+    "title": "Saturn debilitated in Aries",
+    "text": "A debilitated Saturn can bring impatience with discipline, fear of limitation, or a struggle between haste and caution. Learning steady, methodical effort turns this placement's early frustrations into hard-won competence.",
+    "keywords": ["saturn", "debilitated", "aries", "impatience", "fear", "discipline"]
+  }
+]
